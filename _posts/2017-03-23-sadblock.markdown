@@ -1,0 +1,57 @@
+---
+layout: post
+title:  "The Internet Doesn't Need To Be Depressing"
+date:   2017-03-23 17:32:00 -0500
+categories: web
+---
+
+As some of you may know, I have built a Chrome Extension called
+`Sadblock` recently. You can check it out [here][sadblock-link].
+
+![Imgur Screenshot 1]({{ site.url }}/assets/20170323/sadblock_banner.png)
+
+It is at its core a plugin that will hide sad/depressing posts on
+various social media platforms. It can also hide politics and a few
+others, with more on the way.
+
+The need for a tool like Sadblock is not isolated to a small group. We
+can verify this through seeing posts like [this one][imgur-post-link]
+popping up fairly regularly. Often, the people that most desire a tool
+like Sadblock are the ones that would never ask for it. The reason is
+likely for fear of seeing things like this:
+
+![Imgur Screenshot 1]({{ site.url }}/assets/20170323/imgur1.png)
+
+and this
+
+![Imgur Screenshot 2]({{ site.url }}/assets/20170323/imgur2.png)
+
+I would like these sileneced people especially to understand that they
+are definitely not the only ones that are tired of going to bed
+depressed, or waking up and having your morning ruined because
+everyone else wants to talk incessantly about heartbreaking news. 
+
+I get a lot of flak from people questioning the intent of the tool,
+with the claim that it amounts to giving someone blinders, and "how
+will they stay informed?" The fact is, sad stories will appear on the
+news, google, messaging, blogs, at the water cooler, talking to
+friends and parents, etc. Take a moment here, and really try to
+understand that if news is truly newsworthy, sad or otherwise, it will
+find its way to you. It always does.
+
+It is not necessary to be bombarded with news about terrorists and
+deaths halfway across the world in order to "stay informed". All that
+happens is someone goes to bed with a sinking feeling in their
+stomach, or they wake up and have their day ruined because the first
+thing they read in the morning is that another person lost their life
+in some tragic way.
+
+Maybe Sadblock will at least delay this until after breakfast. That
+seems worthwhile, no?
+
+It's simple. It's free. It works.
+
+Stay happy, friends.
+
+[sadblock-link]: http://sadblock.io/
+[imgur-post-link]: http://imgur.com/gallery/KxLolNH
